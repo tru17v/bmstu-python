@@ -1,5 +1,5 @@
-# bmstu-python
- 
+## bmstu-python
+
 | № | Тема | 
 |:---:|---|
-| [Занятие 1](./lesson_1/) | Jupyter Notebook. Markdown - разметка. Latex|
+| [Занятие 1](./lesson%201/) | Jupyter Notebook. Markdown. Latex|
