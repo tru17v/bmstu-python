@@ -12,6 +12,8 @@
 
 [Темы для эссе](./tasks.txt)
 
+[Шаблон LaTeX с листингом](./LaTeX%2-%2listing)
+
 Мем вдогонку:
 
 <img src = ".\img\mem.jpg" width=700/>
