@@ -7,6 +7,7 @@
 | [Занятие 3](./lection%203/) | Функции|[Функции](./lection%203/Functions.pdf)|
 | [Занятие 4](./lection%204/) | Numpy. Matplotlib 1|[Numpy](./lection%204/Numpy_1.pdf) <br> [Matplotlib 1](./lection%204/Matplotlib_1.pdf)|
 | [Занятие 5](./lection%205/) | Matplotlib 2. Images |[Matplotlib 2](./lection%205/Matplotlib_2.pdf) <br> [Images](./lection%205/Images.pdf)|
+| [Занятие 6](./lection%206/) | Pandas. Seaborn |[Pandas](./lection%206/pandas.pdf) <br> [Seaborn](./lection%206/seaborn.pdf)|
 
 [Ссылка на google-форму для отправки ДЗ](https://forms.gle/wLXbGiJVnYXxazXG9)
 
