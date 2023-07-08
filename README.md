@@ -18,4 +18,4 @@
 
 Дополнительные материалы:
 - [Шаблон LaTeX для оформления презентаций](https://github.com/tru17v/LaTeX-template-for-presentations)
-- [Шаблон LaTeX с листингом](./LaTeX%20-%20listing/)
+- [Шаблон LaTeX с листингом](https://github.com/tru17v/bmstu-python/tree/main/LaTeX%20-%20listing)
