@@ -1,5 +1,5 @@
-remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-title: [Введение в математические пакеты]
-description: [Тут размещены материалы второго модуля курса “Введение в математические пакеты” для студентов первого курса кафедры ФН-1 МГТУ им. Н.Э. Баумана.]
+title: Введение в математические пакеты
+description: Тут размещены материалы второго модуля курса “Введение в математические пакеты” для студентов первого курса кафедры ФН-1 МГТУ им. Н.Э. Баумана.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-cayman
