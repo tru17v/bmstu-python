@@ -18,7 +18,3 @@
 Дополнительные материалы:
 - [Шаблон LaTeX для оформления презентаций](https://github.com/tru17v/LaTeX-template-for-presentations)
 - [Шаблон LaTeX с листингом](./LaTeX%20-%20listing/)
-
-Мем вдогонку:
-
-<img src = ".\img\mem.jpg" width=700/>
